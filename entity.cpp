@@ -91,7 +91,7 @@ void entity::createL2(position pos)
 void entity::createZ1(position pos)
 {
     /*  4
-     *  3 2
+        3 2
           1
    */
     create(pos,
@@ -105,7 +105,7 @@ void entity::createZ1(position pos)
 void entity::createZ2(position pos)
 {
     /*    4
-     *  2 3
+        2 3
         1
    */
     create(pos,
